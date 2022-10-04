@@ -1,2 +1,2 @@
 
-App Link : https://sangram-calculatorapp.netlify.app/
+App Link : https://superlative-creponne-7dbfcd.netlify.app/
